@@ -17,7 +17,6 @@
 		3937DC5B124211D800B21E25 /* AuthorDetailEditorController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3937DC59124211D800B21E25 /* AuthorDetailEditorController.xib */; };
 		3937DD851242485700B21E25 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3937DD841242485700B21E25 /* libsqlite3.dylib */; };
 		3937DD8C12424CBC00B21E25 /* Sqlite.m in Sources */ = {isa = PBXBuildFile; fileRef = 3937DD8B12424CBC00B21E25 /* Sqlite.m */; };
-		3937DD9112424EEA00B21E25 /* researchr.sql in Resources */ = {isa = PBXBuildFile; fileRef = 3937DD9012424EEA00B21E25 /* researchr.sql */; };
 		39F48EB4123FB7CB00B66550 /* AuthorDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 39F48EB2123FB7CB00B66550 /* AuthorDetailController.m */; };
 		39F48EB5123FB7CB00B66550 /* AuthorDetailController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 39F48EB3123FB7CB00B66550 /* AuthorDetailController.xib */; };
 /* End PBXBuildFile section */
@@ -38,7 +37,6 @@
 		3937DD841242485700B21E25 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 		3937DD8A12424CBC00B21E25 /* Sqlite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sqlite.h; sourceTree = "<group>"; };
 		3937DD8B12424CBC00B21E25 /* Sqlite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Sqlite.m; sourceTree = "<group>"; };
-		3937DD9012424EEA00B21E25 /* researchr.sql */ = {isa = PBXFileReference; lastKnownFileType = file; name = researchr.sql; path = ../../researchr.sql; sourceTree = SOURCE_ROOT; };
 		39F48EB1123FB7CB00B66550 /* AuthorDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AuthorDetailController.h; sourceTree = "<group>"; };
 		39F48EB2123FB7CB00B66550 /* AuthorDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AuthorDetailController.m; sourceTree = "<group>"; };
 		39F48EB3123FB7CB00B66550 /* AuthorDetailController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AuthorDetailController.xib; sourceTree = "<group>"; };
@@ -109,7 +107,6 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				3937DD9012424EEA00B21E25 /* researchr.sql */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Researchr-Info.plist */,
 			);
@@ -172,7 +169,6 @@
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				39F48EB5123FB7CB00B66550 /* AuthorDetailController.xib in Resources */,
 				3937DC5B124211D800B21E25 /* AuthorDetailEditorController.xib in Resources */,
-				3937DD9112424EEA00B21E25 /* researchr.sql in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

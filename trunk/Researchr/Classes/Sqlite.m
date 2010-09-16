@@ -148,7 +148,7 @@
 			id columnData = [self columnData:sqlStmt columnIndex:i];
 			[dictionary setObject:columnData forKey:columnName];
 		}
-		[arrayList addObject:[dictionary autorelease]];
+		[arrayList addObject:[dictionary autorelease]]; 
 	}
 
 	sqlite3_finalize(sqlStmt);

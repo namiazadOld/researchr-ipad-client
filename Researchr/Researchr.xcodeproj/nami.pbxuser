@@ -201,9 +201,9 @@
 	};
 	3937DD8B12424CBC00B21E25 /* Sqlite.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {920, 4602}}";
+			sepNavIntBoundsRect = "{{0, 0}, {691, 4537}}";
 			sepNavSelRange = "{4330, 16}";
-			sepNavVisRange = "{2798, 1135}";
+			sepNavVisRange = "{3045, 887}";
 			sepNavWindowFrame = "{{61, 453}, {750, 502}}";
 		};
 	};
@@ -229,7 +229,7 @@
 		fRef = 3937DD8B12424CBC00B21E25 /* Sqlite.m */;
 		name = "Sqlite.m: 191";
 		rLen = 16;
-		rLoc = 4330;
+		rLoc = 4331;
 		rType = 0;
 		vrLen = 1135;
 		vrLoc = 2798;

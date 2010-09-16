@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Researchr' target in the 'Researchr' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

@@ -1,0 +1,1 @@
+In this project we try to create a small ipad application having similar functionalities with researchr. This small application can also work in offline mode.
